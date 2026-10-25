@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akapzg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="akapzg GitHub Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=akapzg&style=flat-square&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
----
+<br/>
 
 ### 🛠️ Tech Stack & Ecosystem
 
@@ -26,15 +24,11 @@
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </div>
 
----
+<br/>
 
-### 📊 GitHub Activity & Stats
+### 📊 Activity & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akapzg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="akapzg's GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com?user=akapzg&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akapzg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akapzg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="165" />
 </div>
