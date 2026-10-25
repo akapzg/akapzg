@@ -2,10 +2,6 @@
 
 # akapzg
 
-### System, Networking & Infrastructure
-
-构建可靠、克制且实用的基础设施。
-
 <br />
 
 <img src="https://img.shields.io/badge/FOCUS-OPENWRT%20%26%20NETWORKING-1d1d1f?style=flat-square&logoColor=white" alt="Focus" />
@@ -15,8 +11,6 @@
 </div>
 
 ---
-
-### 精选项目 · Projects
 
 <table>
   <tr>
